@@ -1,0 +1,77 @@
+{
+  "cleansing.qmd": {
+    "cleansing.html": "e9ec7321"
+  },
+  "Cleansing_Exploration/project1.qmd": {
+    "project1.html": "4d9100da"
+  },
+  "Cleansing_Exploration/project2.qmd": {
+    "project2.html": "3748b3cf"
+  },
+  "Cleansing_Exploration/project3.qmd": {
+    "project3.html": "d9f1099f"
+  },
+  "Cleansing_Projects/project1.qmd": {
+    "project1.html": "c7438407"
+  },
+  "Cleansing_Projects/project2.qmd": {
+    "project2.html": "6f6bb41e"
+  },
+  "Cleansing_Projects/project3.qmd": {
+    "project3.html": "445facb3"
+  },
+  "Competition/project1.qmd": {
+    "project1.html": "a9dd35c0"
+  },
+  "Competition/project2.qmd": {
+    "project2.html": "83e313df"
+  },
+  "Competition/project3.qmd": {
+    "project3.html": "e461e4b4"
+  },
+  "competition.qmd": {
+    "competition.html": "78967413"
+  },
+  "exploration.qmd": {
+    "exploration.html": "1939dae4"
+  },
+  "Full_Stack/project1.qmd": {
+    "project1.html": "52dd6123"
+  },
+  "Full_Stack/project2.qmd": {
+    "project2.html": "f2738835"
+  },
+  "full_stack.qmd": {
+    "full_stack.html": "fc4e8064"
+  },
+  "index.qmd": {
+    "index.html": "f807b336"
+  },
+  "Machine_Learning/project1.qmd": {
+    "project1.html": "1f39dfe7"
+  },
+  "Machine_Learning/project2.qmd": {
+    "project2.html": "2d781541"
+  },
+  "Machine_Learning/project3.qmd": {
+    "project3.html": "3e1f02fc"
+  },
+  "ml.qmd": {
+    "ml.html": "8e5b9060"
+  },
+  "resume.qmd": {
+    "resume.html": "71cd8024"
+  },
+  "Story_Telling/project1.qmd": {
+    "project1.html": "87aa5b1f"
+  },
+  "Story_Telling/project2.qmd": {
+    "project2.html": "fdbfb1e4"
+  },
+  "Story_Telling/project3.qmd": {
+    "project3.html": "6a635145"
+  },
+  "story_telling.qmd": {
+    "story_telling.html": "94e4d85a"
+  }
+}
